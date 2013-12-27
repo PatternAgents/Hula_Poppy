@@ -3,8 +3,8 @@ Hula Poppy
 
 PatternAgents Hula Poppy - Pmod Lure for Intel MinnowBoard
 
-[![PatternAgents Caldi](http://www.patternagents.com/img/projects/Hula_Poppy/Hula_Poppy_model.png)  
-*PatternAgents Caldi*](http://www.patternagents.com/projects/Hula_Poppy.html)
+[![PatternAgents Hula Poppy](http://www.patternagents.com/img/projects/Hula_Poppy/Hula_Poppy_model.png)  
+*PatternAgents Hula Poppy*](http://www.patternagents.com/projects/Hula_Poppy.html)
 
 PatternAgents Hula Poppy - Pmod Lure for Intel MinnowBoard is a small adaptor board that allows
 the Intel MinnowBoard to support Pmod Modules.

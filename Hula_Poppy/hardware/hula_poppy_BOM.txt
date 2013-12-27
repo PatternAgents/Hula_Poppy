@@ -1,0 +1,22 @@
+Partlist exported from U:/moxon/My Documents/eagle/PatternAgents/Test_Platforms/Hula_Poppy/hardware/hula_poppy_gerbers/hula_poppy.sch at 12/26/2013 7:46:43 PM
+
+Part  Value                     Device                    Package               Description                                                                    
+C1    10uF/6.3V                 CAP0603-CAP               0603-CAP              Capacitor                                                                      
+C2    10uF/6.3V                 CAP0603-CAP               0603-CAP              Capacitor                                                                      
+C3    0.1uF/6.3V                CAP0603-CAP               0603-CAP              Capacitor                                                                      
+C4    0.1uF/6.3V                CAP0603-CAP               0603-CAP              Capacitor                                                                      
+C5    0.1uF/6.3V                CAP0603-CAP               0603-CAP              Capacitor                                                                      
+C6    0.1uF/6.3V                CAP0603-CAP               0603-CAP              Capacitor                                                                      
+C7    0.1uF/6.3V                CAP0603-CAP               0603-CAP              Capacitor                                                                      
+C8    0.1uF/6.3V                CAP0603-CAP               0603-CAP              Capacitor                                                                      
+GPIO  PA_PMOD_GPIO_DIL_HOST     PA_PMOD_GPIO_DIL_HOST     PA_PMOD_DIL_FEMALE    PatternAgents Peripheral Module GPIO (Type 1A) Pattern                         
+I2C   PA_PMOD_I2C_DIL_CABLE     PA_PMOD_I2C_DIL_CABLE     PA_PMOD_I2C_CABLE     PatternAgents Peripheral Module I2C (Standard) Pattern                         
+LURE1 PA_MINNOW_LURE_BRD_TYPE_C PA_MINNOW_LURE_BRD_TYPE_C PA_LURE_TYPE_C        PatternAgents Minnow Lure Pattern                                              
+SDIO  PA_PMOD_SDIO_DIL_HOST     PA_PMOD_SDIO_DIL_HOST     PA_PMOD_DIL_FEMALE    PatternAgents Peripheral Module SDIO (Type 2B) Pattern                         
+SPI   PA_PMOD_SPI_DIL_HOST      PA_PMOD_SPI_DIL_HOST      PA_PMOD_DIL_FEMALE    PatternAgents Peripheral Module SPI (Type 2A) Pattern                          
+U$6   PA_LOGO_SYMMED            PA_LOGO_SYMMED            PA_LOGO_AGENT_MED_SYM PatternAgents Logo Symbol                                                      
+U$8   OSHW_LOGO_SYMWTXT         OSHW_LOGO_SYMWTXT         OSHW_LOGO_TEXT_SYM    OSHW_LOGO_SYM                                                                  
+U$10  PA_LOGO_SYMMED            PA_LOGO_SYMMED            PA_LOGO_AGENT_MED_SYM PatternAgents Logo Symbol                                                      
+UART1 PA_PMOD_UART_DIL_HOST     PA_PMOD_UART_DIL_HOST     PA_PMOD_DIL_FEMALE    PatternAgents Peripheral Module UART (Type 4A) Pattern                         
+UART2 PA_PMOD_UART_DIL_HOST     PA_PMOD_UART_DIL_HOST     PA_PMOD_DIL_FEMALE    PatternAgents Peripheral Module UART (Type 4A) Pattern                         
+VR1   V_REG_MIC2920             V_REG_MIC2920             SOT223                MIC2920A (http://www.micrel.com/_PDF/mic2920.pdf) - 400mA output LDO Regulator 

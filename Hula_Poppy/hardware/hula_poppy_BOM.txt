@@ -1,4 +1,4 @@
-Partlist exported from U:/moxon/My Documents/eagle/PatternAgents/Test_Platforms/Hula_Poppy/hardware/hula_poppy_gerbers/hula_poppy.sch at 12/26/2013 7:46:43 PM
+Partlist exported from hula_poppy.sch at 12/26/2013 7:46:43 PM
 
 Part  Value                     Device                    Package               Description                                                                    
 C1    10uF/6.3V                 CAP0603-CAP               0603-CAP              Capacitor                                                                      
